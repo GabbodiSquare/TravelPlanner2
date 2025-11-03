@@ -95,7 +95,6 @@ main li:hover {
     transform: translateX(5px);
 }
 
-/* Nuovi stili per i link a Wikipedia e Maps */
 .extra-links {
     margin-top: 25px;
     display: flex;
@@ -105,7 +104,6 @@ main li:hover {
 }
 
 .extra-links a {
-    /* Rimosse img-related styles */
     display: inline-block;
     background-color: #007878;
     color: white;
@@ -123,7 +121,6 @@ main li:hover {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
 
-/* Rimosso .extra-links a img */
 
 table {
   width: 100%;
@@ -223,4 +220,5 @@ footer {
   padding: 1.5rem;
   margin-top: 4rem;
   box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+
 }
